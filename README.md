@@ -38,17 +38,6 @@
 
 *Примечание: готовые файлы расширений (`.cfe`, `.erf`) прикреплены к релизам проектов — их можно скачать и подключить к демо-базе.*
 
-## Скриншоты
-
-01-Обработка-ПоискКонтрагентов
-<img width="1706" height="933" alt="2026-11-01_21-58-45" src="https://github.com/user-attachments/assets/0262cfc0-4fc8-45bd-b385-c625e1555ca4" />
-<img width="1707" height="936" alt="2026-11-01_22-00-38" src="https://github.com/user-attachments/assets/a52a2ed1-b877-4cdd-b664-d14c0595c2a5" />
-
-02-Отчет-ОстаткиТоваров
-<img width="1688" height="921" alt="2026-11-01_22-01-50" src="https://github.com/user-attachments/assets/91694acd-d483-4f14-a24d-2c9a5d991f22" />
-<img width="1689" height="923" alt="2026-11-01_22-02-40" src="https://github.com/user-attachments/assets/e6fec999-9127-4888-84df-8daa1c4e0e90" />
-<img width="1684" height="921" alt="2026-11-01_22-02-54" src="https://github.com/user-attachments/assets/a033856c-f381-4945-a2e6-d65807f28837" />
-
 ## Как я оформляю проекты
 
 Чтобы мои работы было удобно проверять, каждый проект содержит:
