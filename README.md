@@ -64,8 +64,29 @@
 - Производительность запросов и оптимизация
 - Материалы расширенного курса «Разработчик 1С» от Нетологии
 
+## Скриншоты проектов
+
+<details>
+  <summary><b>Посмотреть скриншоты работ (нажмите, чтобы развернуть)</b></summary>
+
+  **1. Поиск контрагентов без ИНН**
+  ![Скриншот 1](<img width="1706" height="933" alt="2026-11-01_21-58-45" src="https://github.com/user-attachments/assets/e45295c8-2b9d-4e11-bbe5-0d80e3365d35" />)
+  ![Скриншот 1.1](<img width="1707" height="936" alt="2026-11-01_22-00-38" src="https://github.com/user-attachments/assets/9df76edd-0426-4387-890d-5689a5d960b5" />)
+  
+  **2. Отчет Остатски товаров (СКД)**
+  ![Скриншот 2](<img width="1688" height="921" alt="2026-11-01_22-01-50" src="https://github.com/user-attachments/assets/9cdf0624-688b-4f67-88ed-e2fdb10df6ff" />)
+  ![Скриншот 2.1](<img width="1689" height="923" alt="2026-11-01_22-02-40" src="https://github.com/user-attachments/assets/468134c4-bd69-43f9-ab76-c02cecfe105a" />)
+  ![Скриншот 2.2](<img width="1684" height="921" alt="2026-11-01_22-02-54" src="https://github.com/user-attachments/assets/7ecd8a65-dbf6-48d8-b77f-2ffdeb2577b0" />)
+
+  **3. Загрузка курсов валют (API + JSON)**
+  ![Скриншот 3](<img width="1707" height="932" alt="2026-11-04_01-17-03" src="https://github.com/user-attachments/assets/d15f0e68-e8a7-4862-a7a7-e3bbfd6f2de3" />)
+  ![Скриншот 3.1](<img width="1708" height="937" alt="2026-11-04_01-16-47" src="https://github.com/user-attachments/assets/51dc6682-599d-48f4-9641-40fb86cccfdf" />)
+  
+</details>
+
 ## Контакты
 
 - Email: kvasov.daniils@yandex.ru (резервная: dkguardian@yandex.ru)
 - Telegram: @kvsdnll
 - Локация: РФ, Жуковский, Московская область
+
